@@ -1,4 +1,3 @@
-# Global_Goals
 This repository contains the HTML and CSS code for a webpage focused on promoting sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all, aligning with the Global Goals initiative. The webpage features information about the goal, its targets, and suggested actions. It utilizes HTML5 and CSS3 for structuring and styling the content, incorporating various design elements for a visually appealing presentation.
 
 Key Features:
